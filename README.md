@@ -21,9 +21,12 @@ A modern React.js application that allows users to search and explore detailed i
 - 💡 **Modular Code**: Clean separation with `Pokemon.js` and `PokemonCard.js`
 
 ## 📦 Installation
-git clone https://github.com/your-username/react-pokemon-app.git
+git clone https://github.com/Ayushpandey2026/Pokemon.git
+
 cd react-pokemon-app
+
 npm install
+
 npm start
 
 
@@ -52,8 +55,8 @@ Understanding React rendering lifecycle
 ## 📬 Contact
 Name: Ayush Pandey
 
-LinkedIn:[ linkedin.com/in/your-profile](https://www.linkedin.com/in/ayushp2007)
+LinkedIn:[ linkedin.com/in/ayushp2007](https://www.linkedin.com/in/ayushp2007)
 
-GitHub:[ github.com/your-username](https://github.com/Ayushpandey2026)
+GitHub:[ github.com/Ayushpandey2026](https://github.com/Ayushpandey2026)
 
 
